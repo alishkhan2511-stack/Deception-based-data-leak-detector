@@ -1,5 +1,8 @@
 # Honey Document — Deception-Based Data Leak Detector
 
+A working prototype of the project described in your exhibition slides
+(*Honey Document: Deception-Based Data Leak Detector*, VIT Bhopal).
+
 A realistic decoy file is planted where an attacker or unauthorized
 insider might find it. Legitimate users have no reason to open it, so
 any interaction — a beacon firing, a copy, a move, a deletion — is
